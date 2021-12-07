@@ -1,0 +1,11 @@
+{
+	"token"			:	"b655ccb1ca652edcc7f3e22b9996dff6c4a6a7c81996a8cc30f068cb",
+	"timeout"		: 	60,
+	"start_date"	: 	"19900101",
+	"end_date"		: 	"20211231",
+	"rolling_back"	: 	5,
+	"if_rolling"	:   1,
+    "host"          :   "localhost",
+    "user"          :   "root",
+    "password"      :   "bbdmodelingcenter"
+}
